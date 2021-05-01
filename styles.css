@@ -1,0 +1,90 @@
+body {
+ background-color:black;}
+
+ 
+h1 {
+color: red;
+text-align:center;
+border: 5px solid red;
+padding: 20px;
+margin: 50px;
+font-family: forte;
+font-size: 27px;
+}
+
+.home {
+color: red;
+text-align:center;
+border: 5px solid red;
+padding: 20px;
+margin: 50px;
+font-family: forte;
+font-size: 27px;
+}
+
+
+h3 {
+color: red;
+text-align:center;
+border: 5px solid red;
+padding: 20px;
+margin: 50px;
+font-family: forte;
+font-size: 27px;
+}
+
+
+h4 {
+color: red;
+text-align:center;
+padding: 20px;
+margin: 50px;
+font-family: forte;
+font-size: 27px;
+}
+
+
+p {
+color: white;
+font-family:Arial Black;
+text-align: center;
+}
+
+
+table, th, td {
+  border: 2px solid red;
+  border-collapse: collapse;
+  background-color:white;
+padding: 50px;
+font-family: Cooper Black;
+ 
+}
+
+
+th, td {
+  padding: 8px;
+  text-align: center;    
+}
+
+nav {
+color:white;
+text-align:right;
+padding: 50px;
+font-size:18px
+}
+
+.img-container {
+  text-align: center;
+  display: block;
+}
+  
+
+
+#myHeader {
+  color: red;
+  padding: 15px;
+  text-align:center;
+  font-family: forte;
+  font-size: 42px;
+  border: 7px solid red;
+  title: Name of Gym;
